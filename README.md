@@ -106,3 +106,9 @@ Girdi doğrulaması da ekledim. Kitap adı boş bırakıldığında veya fiyat n
 Ayrıca olmayan bir kitap ID'si ile GET, PUT veya DELETE işlemi yapıldığında 404 Not Found dönecek şekilde hata yönetimi ekledim.
 
 Son olarak yaptığım işlemleri Postman üzerinden test ettim ve proje yapısını README dosyasında açıkladım.
+
+## Git 101 Practice
+
+- Created a feature branch.
+- Practiced commits and pushing changes.
+- Prepared to open a pull request.
